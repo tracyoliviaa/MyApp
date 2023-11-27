@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7620a334-b5c7-43a1-baeb-7ee051124e93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Dillinger Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/News.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/NewsArticle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/NewsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../News3/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my app/my app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ms trade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CoinItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Coins.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Coins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ms trade.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ms trade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ms trade.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/Coin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/Coin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/Components/StockNews.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/Components/StockNews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/Components/StockStats.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/Components/StockStats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../news4/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/src/components/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/src/components/NewsGrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/src/components/NewsItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newsapp/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Coin.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MNYXgENswpDNVlBLwOooUZsfiD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tracy/Downloads/2DSpiel/Project_001_2DGame&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tracy\Dillinger Projects\myapp\public" />
+      <recent name="C:\Users\tracy\Dillinger Projects\myapp\src\components" />
+      <recent name="C:\Users\tracy\Dillinger Projects\myapp\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="myapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="myapp" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7620a334-b5c7-43a1-baeb-7ee051124e93" name="Changes" comment="" />
+      <created>1677609552076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677609552076</updated>
+      <workItem from="1677609554377" duration="4956000" />
+      <workItem from="1677770716821" duration="25290000" />
+      <workItem from="1677954680490" duration="11259000" />
+      <workItem from="1678103235061" duration="2429000" />
+      <workItem from="1678214553193" duration="10187000" />
+      <workItem from="1678395956276" duration="28058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
